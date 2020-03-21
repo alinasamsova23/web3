@@ -32,7 +32,7 @@ $dbValues = array();
 
 ?>
 <div class="row justify-content-md-center p-4">
-<div class="col-12 col-md-6"
+<div class="col-12 col-md-6 jumbotron">
 <?php
 foreach($boolFields as $key=>$value){
     if(!array_key_exists($key, $_POST)){
