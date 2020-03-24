@@ -55,7 +55,7 @@
       <br>
       <div class="form-check"
       <label for="agreed" class="form-check-label">
-        <input type="checkbox" name="agreed" id="agreed" class="form-check-input">
+        <input type="checkbox" name="agreed" id="agreed" class="form-check-input" required>
         с контрактом ознакомлен
       </label>
       </div>
